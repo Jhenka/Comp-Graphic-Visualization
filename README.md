@@ -1,6 +1,6 @@
 ## 1.	How do I approach designing software?
 ### What new design skills has your work on the project helped you to craft?
-    -This project has taught me to research. Since this a brand-new concept to me there was a major learning curve. I had to learn not only what and how the functions work but how to put it all together to make a cohesive design.
+This project has taught me to research. Since this a brand-new concept to me there was a major learning curve. I had to learn not only what and how the functions work but how to put it all together to make a cohesive design.
 ### o	What design process did you follow for your project work?
  The classic design process: define the task, collect all the information, analyze, study / repeat the previous two steps, then finally develop, and improve.
 ### o	How could tactics from your design approach be applied in future work?
